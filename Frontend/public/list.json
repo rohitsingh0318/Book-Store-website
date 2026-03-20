@@ -1,0 +1,99 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "loream inpules best books every time read the books and get the knowladge",
+        "price": "000",
+        "category": "free",
+        "image": "./bookedsa.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Science Book",
+        "title": "loream inpules best books every time read the books and get the knowladge",
+        "price": "000",
+        "category": "free",
+        "image": "./bookedsa.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Story Book",
+        "title": "loream inpules best books every time read the books and get the knowladge",
+        "price": "000",
+        "category": "free",
+        "image": "./bookedsa.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Story Book",
+        "title": "loream inpules best books every time read the books and get the knowladge",
+        "price": "150",
+        "category": "marvel",
+        "image": "./lsitedbooks.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Story Book",
+        "title": "loream inpules best books every time read the books and get the knowladge",
+        "price": "250",
+        "category": "free",
+       "image": ".//lsitedbooks.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Story Book",
+        "title": "loream inpules best books every time read the books and get the knowladge",
+        "price": "200",
+        "category": "paid",
+        "image": "./hero.webp"
+    },
+    {
+        "id": 7,
+        "name": "Motivation Book",
+        "title": "loream inpules best books every time read the books and get the knowladge",
+        "price": "200",
+        "category": "sports",
+        "image": "./lsitedbooks.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Story Book",
+        "title": "loream inpules best books every time read the books and get the knowladge",
+        "price": "200",
+        "category": "games",
+        "image": "./bookedsa.jpg"
+    },
+    {
+        "id": 9,
+        "name": "kids Book",
+        "title": "loream inpules best books every time read the books and get the knowladge",
+        "price": "200",
+        "category": "science",
+        "image": "./lsitedbooks.jpg"
+    },
+     {
+        "id": 10,
+        "name": "Space Book",
+        "title": "loream inpules best books every time read the books and get the knowladge",
+        "price": "000",
+        "category": "free",
+       "image": "./bookedsa.jpg"
+    },
+       {
+        "id": 11,
+        "name": "Sci-Fi Book",
+        "title": "loream inpules best books every time read the books and get the knowladge",
+        "price": "000",
+        "category": "free",
+        "image": "./bookedsa.jpg"
+    },
+       {
+        "id": 12,
+        "name": "Holly Book",
+        "title": "loream inpules best books every time read the books and get the knowladge",
+        "price": "300",
+        "category": "free",
+        "image": "./lsitedbooks.jpg"
+    }
+
+]
